@@ -1,3 +1,3 @@
 ### CSS4 practice -- 01
 
-* awesome styling with css4 
+- awesome styling with css4

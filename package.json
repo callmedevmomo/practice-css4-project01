@@ -1,0 +1,31 @@
+{
+  "name": "prj01",
+  "version": "1.0.0",
+  "description": "* awesome styling with css4",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callmedevmomo/practice-css4-project01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/callmedevmomo/practice-css4-project01/issues"
+  },
+  "homepage": "https://github.com/callmedevmomo/practice-css4-project01#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "postcss-preset-env": "^6.7.0"
+  },
+  "postcss": {
+    "plugins": {
+      "postcss-preset-env": {
+        "stage": 0
+      }
+    }
+  }
+}
